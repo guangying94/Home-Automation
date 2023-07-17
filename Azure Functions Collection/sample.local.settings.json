@@ -1,0 +1,14 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+      "FUNCTIONS_WORKER_RUNTIME": "node",
+      "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+      "COSMOS_ENDPOINT": "https://xxxxxxxx.documents.azure.com:443/",
+      "COSMOS_KEY": "xxxxxxxx",
+      "COSMOS_DATABASE": "home",
+      "COSMOS_CONTAINER": "BusStopLocation",
+      "BUS_ARRIVAL_BASE_URL": "http://datamall2.mytransport.sg/ltaodataservice/BusArrivalv2",
+      "LTA_API_KEY": "xxxxxxxx"
+    }
+  }
