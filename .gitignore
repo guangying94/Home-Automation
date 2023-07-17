@@ -1,0 +1,8 @@
+## test file
+api.http
+
+## vscode
+.vscode
+
+## others
+.DS_Store
